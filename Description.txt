@@ -1,0 +1,50 @@
+Professional Development, Certifications & Key Contributions
+
+Zensar Technologies | June – November 2026
+
+1. June 2026 – Corporate Onboarding & Team Enablement
+
+Completed the Campus to Corporate program, gaining exposure to Zensar's organizational culture, engineering practices, and professional standards. Received structured guidance, mentorship, and practical assignments from team members to understand corporate workflows, collaboration practices, and expectations while transitioning into the project environment.
+
+2. June – July 2026 – Python Programming & Problem-Solving
+
+Strengthened programming proficiency through Python, OOP, DSA, algorithmic problem-solving, debugging, exception handling, and hands-on coding exercises.
+
+3. July 2026 – AI Level 2: Applied AI & LLM Development
+
+Developed foundational expertise in AI/ML and Generative AI, covering LLMs, prompt engineering, LangChain, Ollama, embeddings, vector databases, RAG fundamentals, model integration, and interactive AI application development using Gradio.
+
+4. July – August 2026 – AI Level 3: Advanced Agentic AI
+
+Built advanced knowledge of agentic AI architectures, LangGraph, MCP, advanced RAG, hybrid retrieval, reranking, RAGAS, Short-Term and Long-Term Memory (STM/LTM), tool calling, HITL, guardrails, and LLM fine-tuning concepts. Explored AWS Bedrock, Azure AI Foundry, and LangSmith.
+
+5. August 2026 – Enterprise Knowledge Assistant & Claude Certifications
+
+Developed a multi-agent Enterprise Knowledge Assistant using LangGraph, RAGAS, and MCP. Implemented Retriever, Response, and Evaluator agents, covering document ingestion, vector retrieval, contextual response generation, evaluation metrics, and execution tracing.
+
+Anthropic Claude Certifications Achieved:
+
+- Claude Certified Associate – Foundations (CCAO-F).
+- Claude Certified Architect – Foundations (CCAR-F).
+
+6. September 2026 – Zenlabs Team Mapping & Technical Assignments
+
+Mapped to Zenlabs teams under the guidance of Saipriyadarshan Cindula. Successfully completed the assigned AI_Intern_TasksW work package, applying AI engineering concepts through structured technical assignments and practical implementation.
+
+7. September 2026 – AutoHeal: AI-Powered CI/CD Automation
+
+Contributed to an AI-driven multi-agent solution for intelligent CI/CD failure diagnosis and resolution. Worked on pipeline log analysis, root cause identification, RAG-based retrieval, fix recommendations, validation workflows, Human-in-the-Loop approvals, and observability using Arize Phoenix and OpenTelemetry.
+
+8. September – October 2026 – Innovation Festival: Strategic AI Solutions
+
+A. RPG Horizon Radar – M&A Intelligence: Contributed to an automated M&A intelligence solution designed to identify acquisition opportunities and competitive developments through corporate filings, news, industry signals, and distress indicators. Focused on signal extraction, prioritization, actionable alerts, and governance considerations, including UPSI compliance.
+
+B. RPG Foresight – Tender Intelligence: Contributed to an AI-driven tender intelligence and early-warning solution for monitoring KEC's bid pipeline and privately notifying Raychem RPG and CEAT about probable tender wins. Focused on enabling proactive procurement, resource allocation, and production planning through timely business intelligence.
+
+9. November 2026 – Meeting-to-Action Agent (Ongoing)
+
+Currently contributing to an AI-powered meeting intelligence solution that converts meeting recordings and transcripts into structured decisions, action items, deadlines, and ownership assignments. Exploring integrations with Jira, Trello, and email workflows to automate follow-ups and improve accountability and productivity.
+
+10. Technical Competencies & Skill Development
+
+Established a strong technical foundation across Software Development, Artificial Intelligence, and Generative AI, with practical experience in Python-based development, LLM integration, RAG architectures, multi-agent orchestration, backend development, model evaluation, cloud AI platforms, and AI observability. Gained hands-on proficiency with technologies including Python, FastAPI, LangChain, LangGraph, MCP, RAGAS, Ollama, Gradio, AWS Bedrock, Azure AI Foundry, Arize Phoenix, and OpenTelemetry.
